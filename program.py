@@ -3,6 +3,7 @@ def main():
     print('And I change it every day')
     print('Еще один принт2')
     print('третий принт')
+    print('четвертый принт')
 
 
 if __name__ == '__main__':

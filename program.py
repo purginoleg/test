@@ -5,7 +5,7 @@ def main():
     print('третий принт')
     print('четвертый принт')
     print('пятый принт')
-
+    print('шестой принт')
 
 if __name__ == '__main__':
     main()

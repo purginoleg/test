@@ -6,6 +6,7 @@ def main():
     print('четвертый принт')
     print('пятый принт')
     print('шестой принт')
+    print('UFO came and added this line')
 
 if __name__ == '__main__':
     main()
